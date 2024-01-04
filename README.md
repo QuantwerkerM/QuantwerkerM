@@ -1,6 +1,7 @@
 @QuantwerkerM
 
-I’m interested in front-end projects based on Angular or React. 
+I’m interested in front-end projects based on Angular or React.
+✉️ 
 
 <!---
 QuantwerkerM/QuantwerkerM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
